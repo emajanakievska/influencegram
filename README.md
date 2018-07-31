@@ -20,5 +20,6 @@ The project will be open in a browser under ```http://localhost:3000/```
 
 
 ### Contact
-For any additional questions please feel free to contact me.
+For any additional questions please feel free to contact me.  
+
 Happy influencing! :)
