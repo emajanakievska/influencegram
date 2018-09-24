@@ -1,5 +1,5 @@
 module.exports = {
-    instagramClientID: 'fdca59bca2844020af926e94512b0986',
-    instagramClientSecret: '4c7a904027304bb190953f29f28c89a3',
-    cookieKey: 'jfunewumciewocdsoax'
+    instagramClientID: process.env.INSTAGRAM_CLIENT_ID,
+    instagramClientSecret: process.env.INSTAGRAM_CLIENT_SECRET,
+    cookieKey: process.env.COOKIE_KEY
 };
