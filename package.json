@@ -23,7 +23,8 @@
     "nodemon": "^1.17.4",
     "passport": "^0.4.0",
     "passport-instagram": "^1.0.0",
+    "react-scripts": "^1.1.5",
     "redux-devtools-extension": "^2.13.5",
-    "reload": "^2.2.2"
+    "reload": "^2.3.1"
   }
 }
